@@ -28,7 +28,7 @@
         <material name="material_leg_yellow" texture="yellow_leg" specular="1.0" shininess="0.0"/>
         <texture type="2d" name="hip" file="hip.png"/>
         <material name="material_hip" texture="hip" specular="1.0" shininess="0.0"/>
-        <material name="yellow" rgba="1 0.945 0.537 1"/>
+        <material name="yellow" rgba="1 0.89803922 0.38431373 1"/>
         <material name="black" rgba="0.2 0.21960784 0.25098039 1"/>
 
 				<mesh file="spot_body_0.obj"/>
